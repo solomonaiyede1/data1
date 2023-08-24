@@ -1,0 +1,7 @@
+1. total count of orders
+2. count of orders for month
+3. count of orders for month(Not shipped)
+4. headline cards: total order count, count of order not shipped, % not shipped
+5. total count of orders not shipped by country April 2020
+6. shipping check
+7. dashboard 
